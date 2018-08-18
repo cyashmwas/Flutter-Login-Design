@@ -104,7 +104,7 @@ class LoginState extends State<Login> {
               color: Colors.white,
             ),
             new Text(
-              'We Always Deliver On Time',
+              'We Always Deliver On Time Everyday',
               style: TextStyle(
                 fontSize: 18.9,
                 color: Colors.white,
